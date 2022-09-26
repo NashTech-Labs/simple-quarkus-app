@@ -1,5 +1,5 @@
 package com.knoluds.health;
-// The application was created by following the official guides published by Quarkus. The API will expose different End-points
+
 import javax.enterprise.context.ApplicationScoped;
 
 import org.eclipse.microprofile.health.HealthCheck;
